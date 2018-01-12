@@ -1,0 +1,3 @@
+[submodule "themes/hugo-agency"]
+	path = themes/hugo-agency
+	url = https://github.com/digitalcraftsman/hugo-agency-theme.git
