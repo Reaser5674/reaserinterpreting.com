@@ -1,5 +1,5 @@
 # About
 
-Website for ViaTerp Interpreting Services.
+Website for Reaser Interpreting.
 
-https://viaterp.com
+https://reaserinterpreting.com

@@ -1,12 +1,12 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "ViaTerp Interpreting Services"
+title = "Reaser Interpreting"
 
 theme = "hugo-agency"
 
 [params]
-  name = "ViaTerp Interpreting Services"
-  description = "ViaTerp Interpreting Services, Professional Sign Language Interpreting Services for the Deaf & Hard-of-Hearing, located in Morgantown, WV. Committed to high standards of professional conduct, contributing to community and professional development, and facilitating linguistic and cultural communication."
+  name = "Reaser Interpreting"
+  description = "Reaser Interpreting, Professional Sign Language Interpreting Services for the Deaf & Hard-of-Hearing, located in Morgantown, WV. Committed to high standards of professional conduct, contributing to community and professional development, and facilitating linguistic and cultural communication."
 
   custom_css = []
   custom_js  = []
@@ -17,8 +17,8 @@ theme = "hugo-agency"
     text = "Please return to [home](/)"
 
   [params.navigation]
-    brand = "ViaTerp Interpreting Services"
-    logo = "logo-L-invert.png"
+    brand = "Reaser Interpreting"
+    logo = "ri-logo.png"
     services = "Services"
     # portfolio = "Portfolio"
     # about = "About"
@@ -152,7 +152,7 @@ theme = "hugo-agency"
     title = "Request Services"
     # subtitle  = ""
     buttonText = "Send Inquiry"
-    email = "joshua.reaser@viaterp.com"
+    email = "jreaser@reaserinterpreting.com"
     thanks = "Thank you for contacting us. We will respond to your inquiry as soon as possible."
     #error = ""
 
