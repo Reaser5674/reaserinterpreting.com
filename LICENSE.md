@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2018 by Ron Reaser
+Copyright (c) 2018 by Reaser Logistics LLC
 
 Portions copyright (c) 2017 by David Miller
 
