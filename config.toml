@@ -115,13 +115,14 @@ theme = "hugo-agency"
     [[params.team.members]]
       img = "reaser.jpg"
       name = "Joshua Reaser"
+      website = "http://joshuareaser.com/"
       position = "Sign Language Interpreter"
       # livesIn = ""
       scope = [
         "State-qualified interpreter (WVRI – State, WVRI – K12) serving the greater Morgantown, WV region."
       ]
       social = [
-        ["fa-bookmark", "http://joshuareaser.com/"],
+        # ["fa-bookmark", "http://joshuareaser.com/"],
         # ["fa-facebook", "#"],
         # ["fa-linkedin", "#"]
       ]
@@ -177,7 +178,7 @@ theme = "hugo-agency"
 
   [params.footer]
     enable = true
-    copyright = "Copyright 2018 by Reaser Logistics LLC"
+    copyright = "Copyright 2019 by Reaser Logistics LLC"
 
     # [[params.footer.social]]
     #   icon = "fa-twitter"
